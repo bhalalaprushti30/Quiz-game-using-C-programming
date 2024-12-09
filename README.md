@@ -9,6 +9,7 @@ This quiz game tests your knowledge of C programming. The game presents question
 Multiple-choice questions: 10 questions related to C programming concepts.
 Interactive gameplay: Users enter answers for each question.
 Score tracking: Final score displayed at the end of the quiz.
+
 🚀 Getting Started
 Prerequisites
 To run the program, you need:
